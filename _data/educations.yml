@@ -1,16 +1,20 @@
 - education:
-  degree: MSc in Computer Science
-  university: University of London
-  time: 2011 - 2012
-  details: "Describe your study here lorem ipsum dolor sit amet, consectetuer adipiscing
-  elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-  magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-  pellentesque eu, pretium quis, sem."
+  degree: PhD Student in Computer Science
+  university: University of Salamanca
+  time: 2016 - Currently
+  details: "The research of the work is focused in human behavior in social networks, 
+  detection of radicalization processes in Twitter and Cloud Computing-based processing 
+  of huge amount of information from Internet."
 - education:
-  degree: BSc in Applied Mathematics
-  university: Bristol University
-  time: 2007 - 2011
-  details: "Describe your study here lorem ipsum dolor sit amet, consectetuer adipiscing
-  elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-  magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-  pellentesque eu, pretium quis, sem."
+  degree: MSc in Artificial Intelligence
+  university: University of Salamanca
+  time: 2015 - 2016
+  details: "The study of the AI in this decade is key to be able to develop systems 
+  and software capable of respond to the needs of the society."
+- education:
+  degree: Computer Science Degree
+  university: University of Salamanca
+  time: 2011 - 2015
+  details: "The foundation of a good software engineer is born in the deep study of
+  the Computer Science. I was awarded with honors in my Final Degree Project: 
+  'Platform for extraction and analysis of information from Internet'."
