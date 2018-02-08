@@ -1,23 +1,18 @@
-intro: "You can list your side projects or open source libraries in this section. Lorem ipsum dolor
-  sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
+intro: "These are projects that was developed by myself or projects where my contribution is enough to mention them."
 projects:
   - project:
-    title: Velocity
-    link: "#hook"
-    tagline: "A responsive website template designed to help startups promote, market and sell their products."
+    title: Ebikemotion
+    link: "https://itunes.apple.com/us/app/ebikemotion/id1125921821"
+    tagline: "End user application for the Ebikemotion family products."
   - project:
-    title: DevStudio
-    link: "#"
-    tagline: "A responsive website template designed to help web developers/designers market their services."
+    title: Ebikemotion Dealer
+    link: "https://itunes.apple.com/us/app/ebikemotion-dealer/id1211121703"
+    tagline: "Dealer application for the Ebikemotion family products."
   - project:
-    title: Tempo
-    link: "#"
-    tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+    title: BionX
+    link: "https://itunes.apple.com/us/app/bionx/id1085119506"
+    tagline: "End user application for the BionX RC3 family products."
   - project:
-    title: Atom
-    link: "#"
-    tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-  - project:
-    title: Delta
-    link: "#"
-    tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+    title: Elby
+    link: "https://itunes.apple.com/us/app/elby/id1061592016"
+    tagline: "End user application for the Elby Bike family products."
