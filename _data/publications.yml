@@ -22,8 +22,7 @@ publications:
     conference: "Ediciones Universidad de Salamanca (España)"
   - paper:
     title: "Analysis and visualization of social user communities"
-    authors: 
-"Daniel López Sánchez, Jorge Revuelta Herrero, Fernando de la Prieta Pintado, Cach Dang"
+    authors: "Daniel López Sánchez, Jorge Revuelta Herrero, Fernando de la Prieta Pintado, Cach Dang"
     conference: "Ediciones Universidad de Salamanca (España)"
   - paper:
     title: "An intelligent agent-based journalism platform"
