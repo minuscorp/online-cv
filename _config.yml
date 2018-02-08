@@ -17,7 +17,7 @@ about: False # set to False or comment line if you want to remove the "How to us
 name: Jorge Revuelta Herrero
 tagline: Senior iOS Developer
 pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-summary: 'Born and growth in Salamanca, Spain. Obtained a Computer Science degree in 2015 and MSc in Artificial Intelligence in 2016 at the University of Salamanca (Spain). In 2017, he received the research internship by the Junta de Castilla y León and started pursuing a PhD at the BISITE Research Group.
+summary: 'Born and grown in Salamanca, Spain. Obtained a Computer Science degree in 2015 and MSc in Artificial Intelligence in 2016 at the University of Salamanca (Spain). In 2017, he received the research internship by the Junta de Castilla y León and started pursuing a PhD at the BISITE Research Group.
 His research interest focuses in the field of social networks, Big Data, Cloud Computing and data visualization. He also is Senior iOS Developer at Ebikemotion SL, that combines with OSS contribution in the iOS community in projects such as fastlane, RxSwift, Moya, ReactiveSwift and others.'
 
 #sidebar links
