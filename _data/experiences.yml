@@ -1,28 +1,21 @@
 - experience:
-  role: Lead Developer
+  role: Lead Senior iOS Developer
   time: 2015 - Present
-  company: Startup Hubs, San Francisco
-  details: "Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing
-  elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-  magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-  pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo.
-  <br> <br>
-  Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-  laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-  architecto beatae vitae dicta sunt explicabo."
+  company: BISITE Research Group | Ebikemotion SL
+  details: "As the Lead iOS Developer of the team, my tasks are design, bootstrap and develop reliable iOS apps 
+  using Swift, relying on clean architectures, easy to test and maintain. I love OSS, so as well as using this projects 
+  for the products I develop, I like to contribute and helping maintain them."
 - experience:
-  role: Senior Software Engineer
+  role: Python Full Stack Developer
   time: 2014 - 2015
-  company: Google, London
-  details: "Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing
-  elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-  magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-  pellentesque eu, pretium quis, sem."
+  company: BISITE Research Group
+  details: "Involved in a national project, which objective was to be able to detect and prevent 
+  social events that could potentially affect the normal behavior of the society. This was achieved 
+  by the development of a Full Stack Python architecture that relies on Django and Celery as its foundation."
 - experience:
-  role: UI Developer
-  time: 2012 - 2014
-  company: Amazon, London
-  details: "Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing
-  elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-  magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-  pellentesque eu, pretium quis, sem."
+  role: Internship
+  time: 2013 - 2015
+  company: BISITE Research Group
+  details: "As an intern of a research group, my first tasks were learning how to develop
+  resilient software that was capable of gather and analyze information from
+  different sources, such as sensors, social networks, online news pages and blogs, etc."
