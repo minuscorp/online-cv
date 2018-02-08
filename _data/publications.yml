@@ -1,15 +1,59 @@
-intro: "You can list your publications in this section. Lorem ipsum dolor
-  sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
+intro: "These are all my publications"
 publications:
   - paper:
-    title: The Art of Computer Programming
-    authors: Donald E. Knuth
-    conference: Addison-Wesley, 1968
+    title: Hybridizing metric learning and case-based reasoning for adaptable clickbait detection
+    authors: Daniel López-Sánchez, Jorge Revuelta Herrero, Angélica González Arrieta, Juan M Corchado
+    conference: Applied Intelligence
   - paper:
-    title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-    authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-    conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+    title: Single Appliance Automatic Recognition: Comparison of Classifiers
+    authors: Daniel Hernández de la Iglesia, Alberto López Barriuso, Álvaro Lozano Murciego, Jorge Revuelta Herrero, Jorge Landeck, Juan F de Paz, Juan M Corchado
+    conference: International Conference on Practical Applications of Agents and Multi-Agent Systems
   - paper:
-    title: A syntax directed compiler for Algol 60
-    authors: Edgar T. Irons
-    conference: "Comm. ACM 4 (1961), 51–55"
+    title: Non Intrusive Load Monitoring (NILM): A State of the Art
+    authors: Jorge Revuelta Herrero, Álvaro Lozano Murciego, Alberto López Barriuso, Daniel Hernández de la Iglesia, Gabriel Villarrubia González, Juan Manuel Corchado Rodríguez, Rita Carreira
+    conference: International Conference on Practical Applications of Agents and Multi-Agent Systems
+  - paper:
+    title: Smart Management System for Electric Bicycles Loan
+    authors: Jorge Revuelta Herrero, Juan Francisco de Paz Santana, Gabriel Villarrubia González, Juan Manuel Corchado Rodríguez
+    conference: International Symposium on Ambient Intelligence
+  - paper:
+    title: Wireless controller and smartphone based interaction system for electric bicycles
+    authors: Alberto L Barriuso, Fernando de La Prieta, Álvaro Lozano Murciego, Daniel Hernández, Jorge Revuelta Herrero
+    conference: Ediciones Universidad de Salamanca (España)
+  - paper:
+    title: Analysis and visualization of social user communities
+    authors: 
+Daniel López Sánchez, Jorge Revuelta Herrero, Fernando de la Prieta Pintado, Cach Dang
+    conference: Ediciones Universidad de Salamanca (España)
+  - paper:
+    title: An intelligent agent-based journalism platform
+    authors: Alberto L Barriuso, Fernando de La Prieta, Álvaro Lozano Murciego, Daniel Hernández, Jorge Revuelta Herrero
+    conference: International Conference on Practical Applications of Agents and Multi-Agent Systems
+  - paper:
+    title: Multi Agent Application for Chronic Patients: Monitoring and Detection of Remote Anomalous Situations
+    authors: Daniel Hernández de la Iglesia, Gabriel Villarrubia González, Alberto López Barriuso, Álvaro Lozano Murciego, Jorge Revuelta Herrero, Juan F de Paz Santana
+    conference: Springer International Publishing
+  - paper:
+    title: New Architecture for Electric Bikes Control Based on Smartphones and Wireless Sensors
+    authors: Jorge Revuelta, Gabriel Villarrubia, Alberto López Barriuso, Daniel Hernández, Álvaro Lozano, Marco Antonio de la Serna González
+    conference: Trends in Practical Applications of Scalable Multi-Agent Systems, the PAAMS Collection
+  - paper:
+    title: Twitter User Clustering Based on Their Preferences and the Louvain Algorithm
+    authors: Daniel López Sánchez, Jorge Revuelta, Fernando De la Prieta, Ana B Gil-González, Cach Dang
+    conference: Trends in Practical Applications of Scalable Multi-Agent Systems, the PAAMS Collection
+  - paper:
+    title: Smart Waste Collection Platform Based on WSN and Route Optimization
+    authors: Álvaro Lozano Murciego, Gabriel Villarrubia González, Alberto López Barriuso, Daniel Hernández de La Iglesia, Jorge Revuelta Herrero, Juan Francisco De Paz Santana
+    conference: Trends in Practical Applications of Scalable Multi-Agent Systems, the PAAMS Collection
+  - paper:
+    title: Multi agent gathering waste system
+    authors: Álvaro Lozano Murciego, Gabriel Villarrubia González, Alberto López Barriuso, Daniel Hernández de La Iglesia, Jorge Revuelta Herrero
+    conference: Ediciones Universidad de Salamanca (España)
+  - paper:
+    title: "JOUR-MAS: a multi-agent system approach to help journalism management"
+    authors: Alberto López Barriuso, Fernando de la Prieta Pintado, Álvaro Lozano Murciego, Daniel Hernández, Jorge Revuelta Herrero
+    conference: "Ediciones Universidad de Salamanca (España)"
+  - paper:
+    title: "Monitoring and analysis of vital signs of a patient through a multi-agent application system"
+    authors: Daniel Hernández de la Iglesia, Gabriel Villarrubia González, Alberto López Barriuso, Álvaro Lozano Murciego, Jorge Revuelta Herrero
+    conference: "ADCAIJ: Advances in Distributed Computing and Artificial Intelligence Journal"
